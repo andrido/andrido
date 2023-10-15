@@ -11,4 +11,4 @@ Lógica de Programação em JavaScript: Minha sólida compreensão da lógica de
 Meu foco está em expandir meu conhecimento e aplicar essas habilidades em desafios interessantes e inovadores. Se você está procurando um colaborador apaixonado por programação ou deseja discutir projetos tecnológicos empolgantes, estou sempre aberto a conexões e novas oportunidades. Vamos trabalhar juntos e criar algo incrível!
 
 
-- 💼 Conheça meu perfil profissional no [LinkedIn](https://www.linkedin.com/in/matheus-andrade-330b82178/)https://www.linkedin.com/in/matheus-andrade-330b82178/).
+- 💼 Conheça meu perfil profissional no [LinkedIn] (https://www.linkedin.com/in/matheus-andrade-330b82178/)https://www.linkedin.com/in/matheus-andrade-330b82178/).

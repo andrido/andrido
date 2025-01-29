@@ -1,14 +1,26 @@
-Olá! Sou um entusiasta da programação e da tecnologia, com experiência em diversas áreas, incluindo:
+# Matheus Andrade 👨‍💻  
+Desenvolvedor Back-End em formação, focado em criar soluções eficientes e escaláveis. Tenho experiência com desenvolvimento de APIs, integração de bancos de dados e tecnologias que otimizam a experiência do usuário.  
 
-Node.js: Sou proficientemente familiarizado com Node.js, o que me permite desenvolver aplicativos de servidor eficientes e escaláveis.
+---
 
-Python (Básico): Embora meu conhecimento em Python seja básico, estou constantemente aprendendo e aprimorando minhas habilidades nesta linguagem versátil.
+## 🛠️ Tecnologias & Ferramentas  
+- **Linguagens:** Java, JavaScript (ES6+), TypeScript, Python (básico).  
+- **Frameworks:** Spring Boot, Node.js, Express.js.  
+- **Bancos de Dados:** PostgreSQL, MySQL.  
+- **Outras:** APIs RESTful, autenticação JWT, consultas SQL otimizadas.  
 
-Servidores HTTP: Tenho experiência em configuração e gerenciamento de servidores HTTP, garantindo a entrega eficiente de conteúdo na web.
+---
 
-Lógica de Programação em JavaScript: Minha sólida compreensão da lógica de programação em JavaScript me permite desenvolver soluções eficazes e interativas.
+## 🌟 Projetos Destacados  
+### 1. [API de Ponto de Venda](https://github.com/andrido/projetoOpenSource)  
+- API para gerenciar vendas em comércio com login seguro e autenticação JWT.  
 
-Meu foco está em expandir meu conhecimento e aplicar essas habilidades em desafios interessantes e inovadores. Se você está procurando um colaborador apaixonado por programação ou deseja discutir projetos tecnológicos empolgantes, estou sempre aberto a conexões e novas oportunidades. Vamos trabalhar juntos e criar algo incrível!
+### 2. [API Bancária](https://github.com/andrido/API-simples)  
+- Sistema para gerenciamento de usuários, contas e saldos.  
 
+---
 
-- 💼 Conheça meu perfil profissional no [LinkedIn] (https://www.linkedin.com/in/matheus-andrade-330b82178/)https://www.linkedin.com/in/matheus-andrade-330b82178/).
+## 🌐 Contatos  
+- **LinkedIn:** [linkedin.com/in/matheus-andrade-330b82178](https://www.linkedin.com/in/matheus-andrade-330b82178/)  
+- **GitHub:** [github.com/andrido](https://github.com/andrido)  
+- **E-mail:** matheusandradeskr@gmail.com  

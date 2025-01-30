@@ -4,8 +4,8 @@ Desenvolvedor Back-End em formação, focado em criar soluções eficientes e es
 ---
 
 ## 🛠️ Tecnologias & Ferramentas  
-- **Linguagens:** Java, Node.JS, JavaScript (ES6+), TypeScript, Python.
-- **Frameworks:** Spring Boot, Node.js, Express.js.  
+- **Linguagens:** Java, Node.JS, TypeScript, Python.
+- **Frameworks/Bibliotecas:** Spring Boot, Express.js.  
 - **Bancos de Dados:** PostgreSQL, MySQL.  
 - **Outras:** APIs RESTful, autenticação JWT, consultas SQL. 
 

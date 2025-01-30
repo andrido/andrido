@@ -22,5 +22,4 @@ Desenvolvedor Back-End em formação, focado em criar soluções eficientes e es
 
 ## 🌐 Contatos  
 - **LinkedIn:** [linkedin.com/in/matheus-andrade-330b82178](https://www.linkedin.com/in/matheus-andrade-330b82178/)  
-- **GitHub:** [github.com/andrido](https://github.com/andrido)  
 - **E-mail:** matheusandradeskr@gmail.com  
